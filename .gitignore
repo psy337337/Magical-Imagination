@@ -73,3 +73,5 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 Magical_Imagination/Content/Medieval_Environment/
+Magical_Imagination/Intermediate/
+Magical_Imagination/Saved/
