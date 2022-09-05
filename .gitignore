@@ -72,6 +72,12 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-Magical_Imagination/Content/Medieval_Environment/
 Magical_Imagination/Intermediate/
 Magical_Imagination/Saved/
+Magical_Imagination/Game/
+Magical_Imagination/Build/
+Magical_Imagination/Binaries/
+Magical_Imagination/Content/Medieval_Environment/Medieval_Houses_Vol2/Maps/MH_02_Demo_Scene_Day_2.umap
+Magical_Imagination/Content/Medieval_Environment/Medieval_Houses_Vol2/Maps/MH_02_Demo_Scene_Day_4.umap
+Magical_Imagination/Content/Medieval_Environment/Real_Landscape/Default/Maps/Default_Demo.umap
+*.zip
